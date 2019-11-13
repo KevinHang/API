@@ -1,0 +1,4 @@
+deadCode = '[{"projectA": 23, "projectB": 23, "projectC": 25, "projectAdead": 3, "projectBdead": 2, "projectCdead": 0}]';
+duplicates = '[{"projectA": 19, "projectB": 18, "projectC": 18, "projectAdup": 7, "projectBdup": 7, "projectCdup": 5}]';
+keywords = '[{"projectA": 4, "projectB": 5, "projectC": 5}]';
+shortSummary = '[{"totalLines": 76, "totalKeywords": 14, "totalTests": 2}]';
